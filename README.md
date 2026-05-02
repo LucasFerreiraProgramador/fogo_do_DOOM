@@ -14,7 +14,7 @@ Esse projeto foi desenvolvido com:
 
 ## 💻 Projeto
 Implementação do clássico algoritmo visual conhecido como *Fogo do DOOM*,
-com foco em lógica de programação, manipulação de arrays e renderização dinâmica no navegador.
+com foco em lógica de programação, manipulação de arrays e renderização dinâmica no navegador.                                  
 
 Projeto criado para fins de estudo e portfólio.
 
