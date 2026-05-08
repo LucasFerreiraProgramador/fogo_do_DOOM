@@ -19,6 +19,6 @@ com foco em lógica de programação, manipulação de arrays e renderização d
 Projeto criado para fins de estudo e portfólio.
 
 ---
-
+                                                                                
 ## 📝 Licença
 Esse projeto está sob a licença MIT. Veja o arquivo `LICENSE` para mais detalhes.
